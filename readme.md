@@ -43,47 +43,33 @@ pythonw twenty2020_bar.py
 🧠 The 20-20-20 Rule
 
 Every 20 minutes, look at something 20 feet (≈6 meters) away for 20 seconds.
-
 This gives your eyes time to relax from continuous focusing on the screen and helps prevent digital eye strain.
 
 💡 Eye Health Tips for Developers
-
 🧍‍♂️ Follow 20-20-20 rule strictly.
-
 Even a short break helps reduce eye fatigue.
-
 🌤️ Ensure good ambient lighting.
-
 Avoid working in a dark room with a bright monitor.
-
 💻 Adjust screen brightness to match your environment.
-
 🪞 Use proper screen distance — about 50-70 cm from your eyes.
-
 🪑 Blink often.
-
 Programmers blink up to 60% less — this dries your eyes.
-
 💧 Stay hydrated and use artificial tears if needed.
-
 🌿 Use blue-light filter or night mode especially at night.
-
 😴 Get enough sleep.
 
 Fatigue increases sensitivity and reduces focusing ability.
-
 🕶️ Visit an eye specialist regularly.
-
 Especially if you notice strain, blur, or headaches.
 
-🧩 Developer Info
+### 🧩 Developer Info
 
 Main file: twenty2020_bar.py
 Language: Python 3 (Tkinter)
 Author: Adi Subuh — Grafa Media
 You’re free to modify, package, and redistribute this app for personal or commercial use.
 
-📜 License
+### 📜 License
 
 MIT License © 2025 Adi Subuh
 Feel free to use and share this reminder for everyone who stares at a screen all day ❤️
